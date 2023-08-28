@@ -31,29 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Are You Making A Difference? (Social Media Content)",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A call for individuals and businesses to drive and chase for impact rather than only financial satisfactions",
+    url: "https://m.facebook.com/story.php?story_fbid=pfbid0yEmZLxBsg6E2jkx8jGJTgxXLsfFi4tZL421wLj9L16qgR2aJRu9tZjP1zohra3Jal&id=100083371626083&mibextid=Nif5oz",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Jaythrift Brand Design",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Fashion accessories brand that needed to recreate and optimize it's presence with new visuals for social media",
+    url: "https://www.canva.com/design/DAFsCumtQXo/T5Gr_L8UbArT7ozJ7yZjug/view?utm_content=DAFsCumtQXo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
   },
   {
-    title: "My Resume Site",
+    title: "Understaanding Clients Needs (Social Media Content)",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Describing the necessitiy that in try to create solutions for others as businesses, it must be percieved helpful by the people you trying to help",
+    url: "https://m.facebook.com/story.php?story_fbid=pfbid02sNuY2GCAzmES6aq8Q4p8vpEie37ZVJ12WMQD2BF5LQqVwN11Mei71baJ4waaXKfhl&id=100083371626083&mibextid=Nif5oz",
   },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+ 
 ];
 
 const Portfolio = () => {
